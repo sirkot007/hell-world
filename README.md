@@ -1,2 +1,3 @@
 # hell-world
-my first repository
+my first repo!
+little excited!!
